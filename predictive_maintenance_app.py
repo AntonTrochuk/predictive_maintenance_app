@@ -694,7 +694,6 @@ st.markdown("""
     .stMetric {
         padding: 10px;
         border-radius: 8px;
-        background: white;
         box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     }
     .stProgress > div > div {
@@ -703,3 +702,4 @@ st.markdown("""
     }
 </style>
 """, unsafe_allow_html=True)
+
