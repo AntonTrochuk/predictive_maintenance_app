@@ -700,7 +700,11 @@ st.markdown("""
         height: 15px;
         border-radius: 8px;
     }
+    .st-emotion-cache-gf1xsr {
+        color: black;
+    }
 </style>
 """, unsafe_allow_html=True)
+
 
 
